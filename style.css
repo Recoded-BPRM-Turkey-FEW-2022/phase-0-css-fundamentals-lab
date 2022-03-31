@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+header a{
+  padding: 0 10px;
+}
+figure{
+  text-align: center;
+}
+figcaption{
+  font-size: 15px;
+}
+#featured-property p{
+margin: auto;
+width: 800px;
+}
+#details{
+  display: flex;
+ justify-content:space-around;
+ background-color: rgb(173, 13, 160);
+
+}
